@@ -1,0 +1,16 @@
+sprint1
+Yihan Pan V00919969
+
+GitHub:
+https://github.com/ypanuvic/csc370a01project
+
+What has achieved:
+1. plan for the sprint 2
+2. implementation and description of SELECT, FROM, WHERE, JOIN, LIMIT, ORDER BY, and DISTINCT
+3. ERD
+
+Plan to do:
+Determines keys
+BCNF-normalises relations
+Enforces referential integrity
+From complex queries: Uses aggregation, Uses sub-queries, Uses SQL DML
