@@ -1,0 +1,17 @@
+Sprint 2
+
+GitHub commit hash:
+
+
+What has achieved:
+1. Determines keys
+2. BCNF-normalises relations
+3. Enforces referential integrity
+4. From complex queries: Uses aggregation, Uses sub-queries, Uses SQL DML
+
+Planed to do in Sprint 3:
+1. sub-queries
+2. indexes
+3. privileges
+4. views
+5. transactions
